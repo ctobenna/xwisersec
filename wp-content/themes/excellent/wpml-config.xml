@@ -1,0 +1,19 @@
+<wpml-config>
+	<admin-texts>
+		<key name="excellent_theme_options">
+			<key name="excellent_search_text" />
+			<key name="excellent_tag_text" />
+			<key name="excellent-img-upload-footer-image" />
+			<key name="excellent_tag_text" />
+			<key name="excellent_secondary_text" />
+			<key name="excellent_secondary_url" />
+			<key name="excellent_about_title" />
+			<key name="excellent_about_description" />
+			<key name="excellent_features_title" />
+			<key name="excellent_features_description" />
+			<key name="excellent_latest_blog_title" />
+			<key name="excellent_latest_blog_description" />
+			<key name="excellent_our_testimonial_title" />
+		</key>
+	</admin-texts>
+</wpml-config>
